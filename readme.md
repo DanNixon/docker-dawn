@@ -1,5 +1,8 @@
 # DAWN in Docker
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/dannixon/dawn)](https://hub.docker.com/r/dannixon/dawn)
+[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/dannixon/dawn)](https://hub.docker.com/r/dannixon/dawn/builds)
+
 [DAWN](https://dawnsci.org/) running in Docker.
 
 ## Usage
